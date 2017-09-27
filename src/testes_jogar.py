@@ -1,6 +1,5 @@
 import jogovelha
 import sys
-
 erro = False
 lin = 1
 col = 1
