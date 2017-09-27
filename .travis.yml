@@ -3,5 +3,3 @@ python:
 - "3.4"
 script: 
 - cd src; python  testes_inic.py
-- cd ..
-- cd python  testes_jogar.py
