@@ -2,7 +2,6 @@ import jogovelha
 import sys
 
 erroInicializar = False
-
 jogovelha.inicializar()
 jogo = jogovelha.tabuleiro()
 
